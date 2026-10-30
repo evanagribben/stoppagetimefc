@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://evanagribben.github.io/feed.xml
+Sitemap: https://stoppagetimefc.com/sitemap.xml

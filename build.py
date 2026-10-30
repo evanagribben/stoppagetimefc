@@ -1003,6 +1003,14 @@ def build_feed(eds):
 
 # ------------------------------------------------------------------------ main
 
+def build_sitemap(paths):
+    """Every public page, so Google can find them all."""
+    rows = "".join(f"<url><loc>{SITE_URL}/{p}</loc></url>\n" for p in paths)
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + rows + "</urlset>\n")
+
+
 def write(rel, content):
     path = os.path.join(ROOT, rel)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -1025,6 +1033,10 @@ def main():
     for lg, name in LEAGUES:
         written.append(write(f"{lg}/index.html", build_league(lg, name, eds)))
     written.append(write("about.html", build_about(eds)))
+    pages = sorted(p for p in written if p.endswith(".html")
+                   and "Moved to Stoppage Time" not in open(os.path.join(ROOT, p), encoding="utf-8").read(600))
+    pages = [p[:-len("index.html")] if p.endswith("index.html") else p for p in pages]
+    written.append(write("sitemap.xml", build_sitemap(pages)))
     print(f"built {len(written)} files from {len(eds)} editions")
 
 
