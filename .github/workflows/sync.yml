@@ -1,0 +1,45 @@
+name: Copy editions from The Newsstand
+
+# The Newsstand site pulls new editions (including the club newsletters) out of
+# Google Drive at :20 past each hour. This runs at :45, copies every Stoppage
+# Time publication across, rebuilds this site and commits. No secrets needed:
+# the source repository is public.
+
+on:
+  schedule:
+    - cron: "45 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-editions
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out The Newsstand
+        uses: actions/checkout@v4
+        with:
+          repository: evanagribben/evanagribben.github.io
+          path: source
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Copy editions
+        run: python3 tools/mirror.py source
+      - name: Rebuild the site
+        run: python3 build.py
+      - name: Commit anything new
+        run: |
+          rm -rf source
+          if [ -z "$(git status --porcelain)" ]; then echo "Nothing new."; exit 0; fi
+          git config user.name  "Stoppage Time"
+          git config user.email "stoppagetime@users.noreply.github.com"
+          git add -A
+          git commit -m "Copy new editions from The Newsstand"
+          git push
