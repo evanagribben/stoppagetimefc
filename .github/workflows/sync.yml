@@ -7,7 +7,7 @@ name: Copy editions from The Newsstand
 
 on:
   schedule:
-    - cron: "45 * * * *"
+    - cron: "5,35 * * * *"
   workflow_dispatch:
 
 permissions:
