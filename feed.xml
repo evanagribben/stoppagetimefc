@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Nov 2026 16:28:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 21:55:27 +0000</lastBuildDate>
   <item>
     <title>The Weekly Real Madrid Digest: Mourinho's Madrid take a six-game charge to Athens</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-03.html</link>
@@ -22,6 +22,22 @@
     <category>The Weekly Barcelona Digest</category>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     <description>Barça host Aston Villa, perfect in Europe, tonight with four defenders injured, then travel to Atlético for first against second in LaLiga on Sunday.</description>
+  </item>
+  <item>
+    <title>The Weekly Atletico Madrid Digest: Bayern come to the Metropolitano with Atlético's midfield stretched thin</title>
+    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-03.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-03.html</guid>
+    <category>The Weekly Atletico Madrid Digest</category>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Atlético host Bayern Munich without Romero, Hjulmand and Cardoso, five days before Barcelona visit with first place in La Liga on the line.</description>
+  </item>
+  <item>
+    <title>The Weekly Arsenal Digest: Fourteen Years, One Goal, And A Defensive Masterclass At Anfield</title>
+    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-11-03.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-11-03.html</guid>
+    <category>The Weekly Arsenal Digest</category>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Arsenal won 1-0 at Anfield for the first time in 14 years, go three points clear at the top, and get William Saliba back for Prague.</description>
   </item>
   <item>
     <title>The Weekly Manchester United Digest: Carrick's Roma reckoning: one night to change the story</title>
