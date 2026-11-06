@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:13:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 01:05:24 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Juventus Digest: Ten days on a knife edge: Spalletti's Juventus fight for air</title>
+    <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-05.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/juventus-digest-2026-11-05.html</guid>
+    <category>The Weekly Juventus Digest</category>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    <description>After a retreat and a rare speech from the chief executive, Juventus beat Napoli and AZ Alkmaar in five days, but a thin squad and a wary club keep Spalletti on edge.</description>
+  </item>
   <item>
     <title>The Weekly Inter Digest: Stung by the derby, revived in Rotterdam: Inter face Como's test</title>
     <link>https://stoppagetimefc.com/editions/inter-digest-2026-11-05.html</link>
@@ -14,6 +22,14 @@
     <category>The Weekly Inter Digest</category>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     <description>After a first league defeat in the derby, Inter rebuilt with a 3-0 win in Rotterdam and now host high-flying Como in a Serie A top-four clash on Sunday.</description>
+  </item>
+  <item>
+    <title>The Weekly Como Digest: Nine at Bollaert: Como rewrite the Champions League record book</title>
+    <link>https://stoppagetimefc.com/editions/como-digest-2026-11-05.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/como-digest-2026-11-05.html</guid>
+    <category>The Weekly Como Digest</category>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Como's 9-1 win at Lens equalled the Champions League record winning margin and set an Italian scoring mark, with a trip to Inter at San Siro up next.</description>
   </item>
   <item>
     <title>The Weekly AC Milan Digest: After the derby, the night that decides Milan's European autumn</title>
