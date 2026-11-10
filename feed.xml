@@ -6,7 +6,31 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Nov 2026 11:40:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 19:38:23 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Real Madrid Digest: Eight in a row, and Mourinho's Madrid have found a shape</title>
+    <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-10.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-10.html</guid>
+    <category>The Weekly Real Madrid Digest</category>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Real Madrid head into the November break on an eight-game winning run, three points behind Barcelona, with Diomande's rise and Vinicius's slump the key questions.</description>
+  </item>
+  <item>
+    <title>The Weekly Barcelona Digest: Fermín's double at the Metropolitano sends Barça into the break three points clear</title>
+    <link>https://stoppagetimefc.com/editions/barcelona-digest-2026-11-10.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/barcelona-digest-2026-11-10.html</guid>
+    <category>The Weekly Barcelona Digest</category>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Fermín scored twice in his 100th La Liga game as Barcelona came from behind to win 2-1 at Atlético and go into the break three points clear.</description>
+  </item>
+  <item>
+    <title>The Weekly Atletico Madrid Digest: Two Nights at the Metropolitano, One Hard Lesson</title>
+    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-10.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-10.html</guid>
+    <category>The Weekly Atletico Madrid Digest</category>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Back-to-back home defeats to Bayern and Barcelona ended a seven-game league winning run and exposed the gap Simeone admits still exists.</description>
+  </item>
   <item>
     <title>The Weekly Manchester United Digest: Carrick's reprieve runs into the international break</title>
     <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-09.html</link>
@@ -302,30 +326,6 @@
     <category>The Weekly Arsenal Digest</category>
     <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     <description>Arsenal open their Champions League campaign at Napoli on Wednesday with William Saliba out, Ezri Konsa two games into his Arsenal career and Martin Odegaard in the form of his life.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: The night the window broke its own record, then broke its word</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-09-02.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-09-02.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    <description>A record 3.46 billion pound Premier League window closed with Enzo Fernandez joining Manchester City for 125m and two agreed deals collapsing after the buzzer.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Arsenal Sell the Summer and Back What They Already Have</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-09-01.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-09-01.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal close the window having sold Gabriel Jesus and Gabriel Martinelli, missed out on Malick Fofana and loaned Ethan Nwaneri to Dortmund, all while unbeaten and yet to concede.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Six days left, and the money has not stopped moving</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-08-26.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-08-26.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    <description>Six days from the September 1 deadline, a World Cup summer has pushed Europe's most expensive week into the middle of the season.</description>
   </item>
 </channel>
 </rss>
