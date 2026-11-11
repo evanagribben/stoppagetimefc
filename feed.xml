@@ -6,7 +6,23 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Nov 2026 07:03:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 15:06:19 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Borussia Dortmund Digest: Two tight wins, 21 points and the closest title race in years</title>
+    <link>https://stoppagetimefc.com/editions/dortmund-digest-2026-11-11.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/dortmund-digest-2026-11-11.html</guid>
+    <category>The Weekly Borussia Dortmund Digest</category>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Dortmund beat Real Betis and Elversberg 2-1 to stay level with Bayern on 21 points, but fatigue and injuries to Guirassy and Chukwuemeka cloud the international break.</description>
+  </item>
+  <item>
+    <title>The Weekly Bayern Munich Digest: Kane signs on to 2029 as Bayern lead the table into a bruising break</title>
+    <link>https://stoppagetimefc.com/editions/bayern-digest-2026-11-11.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/bayern-digest-2026-11-11.html</guid>
+    <category>The Weekly Bayern Munich Digest</category>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Harry Kane extends to 2029 at a reported club-record salary while Bayern lead the Bundesliga on goal difference without Kompany, Neuer, Musiala and Saibari.</description>
+  </item>
   <item>
     <title>The Weekly Real Madrid Digest: Eight in a row, and Mourinho's Madrid have found a shape</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-10.html</link>
@@ -310,22 +326,6 @@
     <category>The Weekly Arsenal Digest</category>
     <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     <description>Arsenal begin the Carabao Cup at Ipswich six months after losing its final, unbeaten in six and missing half a back four.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Europe Reopens on a Map Nobody Recognises</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-09-09.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-09-09.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    <description>The Champions League league phase opens on a redrawn map of Europe, with Mourinho at Real Madrid, Maresca at City and the holders PSG 14th in France.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Naples, a grounded plane and a back four held together by faith</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-09-08.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-09-08.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal open their Champions League campaign at Napoli on Wednesday with William Saliba out, Ezri Konsa two games into his Arsenal career and Martin Odegaard in the form of his life.</description>
   </item>
 </channel>
 </rss>
