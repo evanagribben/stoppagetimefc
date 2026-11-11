@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Nov 2026 15:06:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 22:13:06 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly PSG Digest: Eleven straight wins, and PSG did it without their stars</title>
+    <link>https://stoppagetimefc.com/editions/psg-digest-2026-11-11.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/psg-digest-2026-11-11.html</guid>
+    <category>The Weekly PSG Digest</category>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    <description>PSG reach the international break on an 11-match winning run built without Kvaratskhelia, Dembélé and Marquinhos, and will not buy a winter replacement for the Georgian.</description>
+  </item>
   <item>
     <title>The Weekly Borussia Dortmund Digest: Two tight wins, 21 points and the closest title race in years</title>
     <link>https://stoppagetimefc.com/editions/dortmund-digest-2026-11-11.html</link>
@@ -318,14 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     <description>Europe's great managerial reshuffle faces its first verdicts as Maresca's Manchester City go four from four and Mourinho's Real Madrid chase Barcelona.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: The one trophy that keeps getting away</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-09-15.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-09-15.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal begin the Carabao Cup at Ipswich six months after losing its final, unbeaten in six and missing half a back four.</description>
   </item>
 </channel>
 </rss>
