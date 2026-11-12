@@ -6,7 +6,31 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Nov 2026 11:45:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 19:49:55 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Juventus Digest: Six points off fourth, and a fortnight to fix it</title>
+    <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-12.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/juventus-digest-2026-11-12.html</guid>
+    <category>The Weekly Juventus Digest</category>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Juventus drew 2-2 at Fiorentina to sit seventh, six points off fourth, as Spalletti faces growing scrutiny heading into the international break and a home game with Venezia.</description>
+  </item>
+  <item>
+    <title>The Weekly Inter Digest: Inter give Como the ball and take the points</title>
+    <link>https://stoppagetimefc.com/editions/inter-digest-2026-11-12.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/inter-digest-2026-11-12.html</guid>
+    <category>The Weekly Inter Digest</category>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Inter beat Como 2-0 with only 43 percent of the ball to go into the international break a point behind Lazio, with Sarri's injury-hit Atalanta up next.</description>
+  </item>
+  <item>
+    <title>The Weekly AC Milan Digest: Amorim's split season: a Serie A contender, a Europa League emergency</title>
+    <link>https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-12.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-12.html</guid>
+    <category>The Weekly AC Milan Digest</category>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Milan sit fourth on 24 points after winning at Genoa, but a 2-0 home loss to Ferencvaros leaves them 28th in the Europa League and Amorim admitting the squad is not ready.</description>
+  </item>
   <item>
     <title>The Weekly PSG Digest: Eleven straight wins, and PSG did it without their stars</title>
     <link>https://stoppagetimefc.com/editions/psg-digest-2026-11-11.html</link>
@@ -302,30 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     <description>An independent commission found Manchester City guilty of serious financial breaches across nine seasons, and the sanction is still to come.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: No match, no peace: Arteta signs up for four more years</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-09-29.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-09-29.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    <description>With no Arsenal men's match all week, Mikel Arteta agreed a reported four-year deal and Manchester City were found guilty of breaking Premier League financial rules.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Football's Cold War Reaches the Ballot Box</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-09-23.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-09-23.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    <description>UEFA and FIFA are at war over who owns the World Cup, and this week the fight moved openly into the 2027 election campaign.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Arteta Gets His Deal. His Champions Get a Warning.</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-09-22.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-09-22.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal and Mikel Arteta have agreed a new long-term contract, the BBC reports, three days after Brighton beat the champions 3-0 on the south coast.</description>
   </item>
 </channel>
 </rss>
