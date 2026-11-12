@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Nov 2026 22:13:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 03:18:16 +0000</lastBuildDate>
   <item>
     <title>The Weekly PSG Digest: Eleven straight wins, and PSG did it without their stars</title>
     <link>https://stoppagetimefc.com/editions/psg-digest-2026-11-11.html</link>
@@ -30,6 +30,14 @@
     <category>The Weekly Bayern Munich Digest</category>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     <description>Harry Kane extends to 2029 at a reported club-record salary while Bayern lead the Bundesliga on goal difference without Kompany, Neuer, Musiala and Saibari.</description>
+  </item>
+  <item>
+    <title>The Weekly Arsenal Digest: Five Clear, Seven Clean Sheets, One Winger Missing</title>
+    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-11-11.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-11-11.html</guid>
+    <category>The Weekly Arsenal Digest</category>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Arsenal reach the last international break of the year top of the Premier League on 27 points, five clear, with the meanest defence in the division and Bukayo Saka still weeks away.</description>
   </item>
   <item>
     <title>The Weekly Real Madrid Digest: Eight in a row, and Mourinho's Madrid have found a shape</title>
@@ -318,14 +326,6 @@
     <category>The Weekly Arsenal Digest</category>
     <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     <description>Arsenal and Mikel Arteta have agreed a new long-term contract, the BBC reports, three days after Brighton beat the champions 3-0 on the south coast.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: The Great Reshuffle Meets Its First Reckoning</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-09-16.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-09-16.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    <description>Europe's great managerial reshuffle faces its first verdicts as Maresca's Manchester City go four from four and Mourinho's Real Madrid chase Barcelona.</description>
   </item>
 </channel>
 </rss>
