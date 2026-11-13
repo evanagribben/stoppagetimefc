@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Nov 2026 19:49:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 00:59:41 +0000</lastBuildDate>
   <item>
     <title>The Weekly Juventus Digest: Six points off fourth, and a fortnight to fix it</title>
     <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-12.html</link>
@@ -22,6 +22,14 @@
     <category>The Weekly Inter Digest</category>
     <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     <description>Inter beat Como 2-0 with only 43 percent of the ball to go into the international break a point behind Lazio, with Sarri's injury-hit Atalanta up next.</description>
+  </item>
+  <item>
+    <title>The Weekly Como Digest: Back to earth at San Siro: what Inter exposed, and what the break must fix</title>
+    <link>https://stoppagetimefc.com/editions/como-digest-2026-11-12.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/como-digest-2026-11-12.html</guid>
+    <category>The Weekly Como Digest</category>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Four days after a record 9-1 at Lens, Como lost 2-0 at Inter, ending a six-game winning run and dropping to fifth before the November break.</description>
   </item>
   <item>
     <title>The Weekly AC Milan Digest: Amorim's split season: a Serie A contender, a Europa League emergency</title>
@@ -318,14 +326,6 @@
     <category>The Weekly Arsenal Digest</category>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     <description>Arsenal return from a three week international break second in the table with eight goals in five games and the sharpest question of their season still unanswered.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Guilty: the verdict that rewrites nine seasons of English football</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-09-30.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-09-30.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    <description>An independent commission found Manchester City guilty of serious financial breaches across nine seasons, and the sanction is still to come.</description>
   </item>
 </channel>
 </rss>
