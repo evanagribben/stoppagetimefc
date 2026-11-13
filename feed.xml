@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:08:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 22:06:39 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Soccer Digest: Pochettino swaps the USMNT for a United rescue mission</title>
+    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-11-13.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-11-13.html</guid>
+    <category>The Weekly Soccer Digest</category>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Manchester United sack Michael Carrick and hire USMNT coach Mauricio Pochettino, who starts on 18 November and goes to Anfield four days later.</description>
+  </item>
   <item>
     <title>The Weekly Juventus Digest: Six points off fourth, and a fortnight to fix it</title>
     <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-12.html</link>
@@ -318,14 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     <description>Manchester City lodged their appeal against the guilty verdict at 7pm on 1 October, starting a twelve-week clock that will decide when, and how hard, any punishment lands.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Twenty-one days to fix the thing nobody has fixed</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-10-06.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-10-06.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal return from a three week international break second in the table with eight goals in five games and the sharpest question of their season still unanswered.</description>
   </item>
 </channel>
 </rss>
