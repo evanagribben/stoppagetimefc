@@ -6,7 +6,23 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Nov 2026 07:52:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 18:20:46 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Manchester United Digest: Pochettino takes over a club in the bottom three</title>
+    <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-16.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/man-united-digest-2026-11-16.html</guid>
+    <category>The Weekly Manchester United Digest</category>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Manchester United sacked Michael Carrick with the team 18th and hired Mauricio Pochettino, who starts on November 18 and makes his debut at Anfield on November 22.</description>
+  </item>
+  <item>
+    <title>The Weekly Liverpool Digest: Pochettino's United arrive at Anfield as Liverpool count the cost of the break</title>
+    <link>https://stoppagetimefc.com/editions/liverpool-digest-2026-11-16.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/liverpool-digest-2026-11-16.html</guid>
+    <category>The Weekly Liverpool Digest</category>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Liverpool return from the international break to face Pochettino's first Manchester United side at Anfield, with Van Dijk, Szoboszlai, Araujo and Gravenberch all fitness questions.</description>
+  </item>
   <item>
     <title>The Weekly Soccer Digest: Pochettino swaps the USMNT for a United rescue mission</title>
     <link>https://stoppagetimefc.com/editions/soccer-digest-2026-11-13.html</link>
@@ -310,22 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     <description>Paris Saint-Germain, winners of the last two Champions Leagues, visit an unbeaten Manchester City on a matchday that has already produced 32 goals in nine games.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: A new contract, two wins in four days, and the answer last month's defeat demanded</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-10-13.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-10-13.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal followed Mikel Arteta's new contract to 2030 with a comeback win over Leeds and a 3-0 Champions League rout of Lille, in a week that ended with the death of Ken Friar.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: The clock started at 7pm on Thursday</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-10-07.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-10-07.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Manchester City lodged their appeal against the guilty verdict at 7pm on 1 October, starting a twelve-week clock that will decide when, and how hard, any punishment lands.</description>
   </item>
 </channel>
 </rss>
