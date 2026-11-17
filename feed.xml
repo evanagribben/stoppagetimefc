@@ -6,7 +6,31 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Nov 2026 10:34:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 19:21:56 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Real Madrid Digest: Vinícius returns with five goals, and Mourinho has a choice to make</title>
+    <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-17.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-17.html</guid>
+    <category>The Weekly Real Madrid Digest</category>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Vinicius returns from the break with five Brazil goals, Tchouameni is a doubt and Madrid face three home games in eight days, starting with Celta Vigo.</description>
+  </item>
+  <item>
+    <title>The Weekly Barcelona Digest: A costly break: Cubarsí a doubt as Barça face seven games in 21 days</title>
+    <link>https://stoppagetimefc.com/editions/barcelona-digest-2026-11-17.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/barcelona-digest-2026-11-17.html</guid>
+    <category>The Weekly Barcelona Digest</category>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Barça return from the international break with Cubarsí a doubt, Raphinha chastened and seven games in 21 days, starting with Villarreal at Spotify Camp Nou on Sunday.</description>
+  </item>
+  <item>
+    <title>The Weekly Atletico Madrid Digest: Atlético's November gauntlet starts at Getafe, with history in reach and bodies short</title>
+    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-17.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-17.html</guid>
+    <category>The Weekly Atletico Madrid Digest</category>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Atlético come out of the international break short of Lookman, Pubill and Cuti Romero, with Simeone one win from a La Liga record and four games in eleven days ahead.</description>
+  </item>
   <item>
     <title>The Weekly Manchester United Digest: Pochettino takes over a club in the bottom three</title>
     <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-16.html</link>
@@ -302,30 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     <description>Bayern and Dortmund meet level on points and both unbeaten in a Klassiker Vincent Kompany will watch from home, with Aaron Danks in the dugout.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Kane's Crown, and the Klassiker That Follows</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-10-28.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-10-28.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Harry Kane collected the Ballon d'Or in London on Monday and now walks into a first-against-second Klassiker at the Allianz Arena with Bayern's head coach in hospital.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Anfield, Without Him</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-10-27.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-10-27.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal go to Anfield on Sunday level on points with Manchester City but without Bukayo Saka, who faces weeks out with a quad injury.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Mourinho Walks Back Into the Camp Nou</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-10-21.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-10-21.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Jose Mourinho takes Real Madrid back to the Camp Nou on Sunday six points adrift of an unbeaten Barcelona and without Vinicius Junior.</description>
   </item>
 </channel>
 </rss>
