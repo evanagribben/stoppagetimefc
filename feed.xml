@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Nov 2026 18:20:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 02:01:47 +0000</lastBuildDate>
   <item>
     <title>The Weekly Manchester United Digest: Pochettino takes over a club in the bottom three</title>
     <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-16.html</link>
@@ -16,12 +16,28 @@
     <description>Manchester United sacked Michael Carrick with the team 18th and hired Mauricio Pochettino, who starts on November 18 and makes his debut at Anfield on November 22.</description>
   </item>
   <item>
+    <title>The Weekly Manchester City Digest: Eight days that will define Maresca's autumn</title>
+    <link>https://stoppagetimefc.com/editions/man-city-digest-2026-11-16.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/man-city-digest-2026-11-16.html</guid>
+    <category>The Weekly Manchester City Digest</category>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    <description>City return from the break with Fulham, Napoli and leaders Arsenal in eight days, needing to fix a leaky defence while Guéhi is a doubt and an appeal date looms.</description>
+  </item>
+  <item>
     <title>The Weekly Liverpool Digest: Pochettino's United arrive at Anfield as Liverpool count the cost of the break</title>
     <link>https://stoppagetimefc.com/editions/liverpool-digest-2026-11-16.html</link>
     <guid isPermaLink="true">https://stoppagetimefc.com/editions/liverpool-digest-2026-11-16.html</guid>
     <category>The Weekly Liverpool Digest</category>
     <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     <description>Liverpool return from the international break to face Pochettino's first Manchester United side at Anfield, with Van Dijk, Szoboszlai, Araujo and Gravenberch all fitness questions.</description>
+  </item>
+  <item>
+    <title>The Weekly Chelsea Digest: Ten games in, Alonso's Chelsea need Leeds to be a turning point</title>
+    <link>https://stoppagetimefc.com/editions/chelsea-digest-2026-11-16.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/chelsea-digest-2026-11-16.html</guid>
+    <category>The Weekly Chelsea Digest</category>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Fifth and two points off the top four, Chelsea return from the break against Leeds with João Pedro doubtful and questions to answer after the defeat at Sunderland.</description>
   </item>
   <item>
     <title>The Weekly Soccer Digest: Pochettino swaps the USMNT for a United rescue mission</title>
@@ -310,22 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     <description>Jose Mourinho takes Real Madrid back to the Camp Nou on Sunday six points adrift of an unbeaten Barcelona and without Vinicius Junior.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Back to Munich, Carrying a Different Kind of Problem</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-10-20.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-10-20.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal go to the Allianz Arena as English champions with a perfect Champions League record and a scoring problem nobody has solved yet.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: The champions of Europe walk into the one place nobody is losing</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-10-14.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-10-14.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Paris Saint-Germain, winners of the last two Champions Leagues, visit an unbeaten Manchester City on a matchday that has already produced 32 goals in nine games.</description>
   </item>
 </channel>
 </rss>
