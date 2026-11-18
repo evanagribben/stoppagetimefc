@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Nov 2026 19:21:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 01:49:56 +0000</lastBuildDate>
   <item>
     <title>The Weekly Real Madrid Digest: Vinícius returns with five goals, and Mourinho has a choice to make</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-17.html</link>
@@ -30,6 +30,14 @@
     <category>The Weekly Atletico Madrid Digest</category>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     <description>Atlético come out of the international break short of Lookman, Pubill and Cuti Romero, with Simeone one win from a La Liga record and four games in eleven days ahead.</description>
+  </item>
+  <item>
+    <title>The Weekly Arsenal Digest: Arsenal Spend the Break Locking the Doors</title>
+    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-11-17.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-11-17.html</guid>
+    <category>The Weekly Arsenal Digest</category>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Declan Rice has agreed a new five-year Arsenal deal to 2031, with David Raya, Jurrien Timber and Piero Hincapie close behind, turning a quiet international break into Arsenal's biggest week of business.</description>
   </item>
   <item>
     <title>The Weekly Manchester United Digest: Pochettino takes over a club in the bottom three</title>
@@ -318,14 +326,6 @@
     <category>The Weekly Chelsea Digest</category>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     <description>Chelsea beat ten-man Manchester United 2-0 after a week of a Spurs defeat and a Carabao Cup shootout exit, with Lavia and Rogers leading the way before a trip to Sunderland.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Der Klassiker arrives level, and without the man who built Bayern's season</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-10-30.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-10-30.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    <description>Bayern and Dortmund meet level on points and both unbeaten in a Klassiker Vincent Kompany will watch from home, with Aaron Danks in the dugout.</description>
   </item>
 </channel>
 </rss>
