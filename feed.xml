@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Nov 2026 10:00:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:47:49 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Bayern Munich Digest: Kompany comes home: Bayern's coach returns for Köln, and the unbeaten interregnum ends</title>
+    <link>https://stoppagetimefc.com/editions/bayern-digest-2026-11-18.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/bayern-digest-2026-11-18.html</guid>
+    <category>The Weekly Bayern Munich Digest</category>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Vincent Kompany returns for Friday's game with Koln after his October collapse, inheriting an unbeaten Bayern side level on points with Dortmund and short of Neuer and Davies.</description>
+  </item>
   <item>
     <title>The Weekly Real Madrid Digest: Vinícius returns with five goals, and Mourinho has a choice to make</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-17.html</link>
@@ -318,14 +326,6 @@
     <category>The Weekly Liverpool Digest</category>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     <description>Arsenal won 1-0 at Anfield after an Alisson error, Liverpool failed to register a shot on target, and a home attack with four league goals in five games now heads to Istanbul.</description>
-  </item>
-  <item>
-    <title>The Weekly Chelsea Digest: Lavia, Rogers and a rare clean sheet: how Alonso steadied a lurching week</title>
-    <link>https://stoppagetimefc.com/editions/chelsea-digest-2026-11-02.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/chelsea-digest-2026-11-02.html</guid>
-    <category>The Weekly Chelsea Digest</category>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Chelsea beat ten-man Manchester United 2-0 after a week of a Spurs defeat and a Carabao Cup shootout exit, with Lavia and Rogers leading the way before a trip to Sunderland.</description>
   </item>
 </channel>
 </rss>
