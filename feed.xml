@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Nov 2026 18:10:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 00:52:07 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Juventus Digest: Venezia at home, and no more room for drift</title>
+    <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-19.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/juventus-digest-2026-11-19.html</guid>
+    <category>The Weekly Juventus Digest</category>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Juventus return from the break seventh and 11 points off the top, with Venezia at home, a long injury list easing and Conte openly talking about a comeback.</description>
+  </item>
   <item>
     <title>The Weekly Inter Digest: Lautaro and Thuram return as Inter restart the chase in Bergamo</title>
     <link>https://stoppagetimefc.com/editions/inter-digest-2026-11-19.html</link>
@@ -14,6 +22,14 @@
     <category>The Weekly Inter Digest</category>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     <description>Lautaro Martinez and Marcus Thuram are back in training as second-placed Inter visit Atalanta on Sunday, a point behind Lazio, with Stuttgart three days later.</description>
+  </item>
+  <item>
+    <title>The Weekly Como Digest: Douvikas alone: Como's striker crisis meets four games in 12 days</title>
+    <link>https://stoppagetimefc.com/editions/como-digest-2026-11-19.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/como-digest-2026-11-19.html</guid>
+    <category>The Weekly Como Digest</category>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    <description>A new tibia setback for Moise Kean leaves Tasos Douvikas as the only fit Como striker for four home games in 12 days, starting with Cagliari on Saturday and AEK Athens on Tuesday.</description>
   </item>
   <item>
     <title>The Weekly AC Milan Digest: Five points back, three games in nine days: Amorim's Milan restart the chase</title>
@@ -310,22 +326,6 @@
     <category>The Weekly Barcelona Digest</category>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     <description>Barça host Aston Villa, perfect in Europe, tonight with four defenders injured, then travel to Atlético for first against second in LaLiga on Sunday.</description>
-  </item>
-  <item>
-    <title>The Weekly Atletico Madrid Digest: Bayern come to the Metropolitano with Atlético's midfield stretched thin</title>
-    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-03.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-03.html</guid>
-    <category>The Weekly Atletico Madrid Digest</category>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Atlético host Bayern Munich without Romero, Hjulmand and Cardoso, five days before Barcelona visit with first place in La Liga on the line.</description>
-  </item>
-  <item>
-    <title>The Weekly Arsenal Digest: Fourteen Years, One Goal, And A Defensive Masterclass At Anfield</title>
-    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-11-03.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-11-03.html</guid>
-    <category>The Weekly Arsenal Digest</category>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Arsenal won 1-0 at Anfield for the first time in 14 years, go three points clear at the top, and get William Saliba back for Prague.</description>
   </item>
 </channel>
 </rss>
