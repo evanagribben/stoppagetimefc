@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Nov 2026 17:11:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 23:18:30 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Soccer Digest: Pochettino Walks Into The Oldest Fight In England</title>
+    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-11-20.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-11-20.html</guid>
+    <category>The Weekly Soccer Digest</category>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Mauricio Pochettino takes charge of Manchester United for the first time at Anfield on Sunday, four days into the job with his club in the relegation zone.</description>
+  </item>
   <item>
     <title>The Weekly Juventus Digest: Venezia at home, and no more room for drift</title>
     <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-19.html</link>
@@ -318,14 +326,6 @@
     <category>The Weekly Real Madrid Digest</category>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     <description>Real Madrid travel to AEK Athens on a six-game winning run, with Mourinho rotating, Güler and Tchouaméni rested and Vinícius back for Europe.</description>
-  </item>
-  <item>
-    <title>The Weekly Barcelona Digest: Villa at the Camp Nou: a patched-up Barça defence meets Europe's form side</title>
-    <link>https://stoppagetimefc.com/editions/barcelona-digest-2026-11-03.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/barcelona-digest-2026-11-03.html</guid>
-    <category>The Weekly Barcelona Digest</category>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Barça host Aston Villa, perfect in Europe, tonight with four defenders injured, then travel to Atlético for first against second in LaLiga on Sunday.</description>
   </item>
 </channel>
 </rss>
