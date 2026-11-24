@@ -6,7 +6,23 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:54:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 18:49:12 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Real Madrid Digest: Nine straight wins, a late-goal habit and PSV at the Bernabéu</title>
+    <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-24.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-24.html</guid>
+    <category>The Weekly Real Madrid Digest</category>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Madrid came from behind to beat Celta for a ninth straight win and now host PSV, top of the Eredivisie but 24th in the Champions League, with Vinicius back in the XI.</description>
+  </item>
+  <item>
+    <title>The Weekly Barcelona Digest: Two down in seven minutes, three goals in ten: how Barça turned Villarreal around</title>
+    <link>https://stoppagetimefc.com/editions/barcelona-digest-2026-11-24.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/barcelona-digest-2026-11-24.html</guid>
+    <category>The Weekly Barcelona Digest</category>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Barça came from 0-2 down to beat Villarreal 3-2 and stay three points clear, but go to Sabah without Lamine Yamal and may lose Fermín for two games.</description>
+  </item>
   <item>
     <title>The Weekly Manchester United Digest: Eight minutes into the Pochettino era, United's season found a new low</title>
     <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-23.html</link>
@@ -310,22 +326,6 @@
     <category>The Weekly Inter Digest</category>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     <description>After a first league defeat in the derby, Inter rebuilt with a 3-0 win in Rotterdam and now host high-flying Como in a Serie A top-four clash on Sunday.</description>
-  </item>
-  <item>
-    <title>The Weekly Como Digest: Nine at Bollaert: Como rewrite the Champions League record book</title>
-    <link>https://stoppagetimefc.com/editions/como-digest-2026-11-05.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/como-digest-2026-11-05.html</guid>
-    <category>The Weekly Como Digest</category>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Como's 9-1 win at Lens equalled the Champions League record winning margin and set an Italian scoring mark, with a trip to Inter at San Siro up next.</description>
-  </item>
-  <item>
-    <title>The Weekly AC Milan Digest: After the derby, the night that decides Milan's European autumn</title>
-    <link>https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-05.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-05.html</guid>
-    <category>The Weekly AC Milan Digest</category>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Milan beat Inter 3-1 to climb to fifth in Serie A, but sit 24th in the Europa League and must beat unbeaten Ferencváros tonight at San Siro.</description>
   </item>
 </channel>
 </rss>
