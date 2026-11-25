@@ -6,7 +6,31 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:35:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 22:24:27 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly PSG Digest: Without Doué and Kvaratskhelia, PSG test their 12-game run against Gasperini's Roma</title>
+    <link>https://stoppagetimefc.com/editions/psg-digest-2026-11-25.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/psg-digest-2026-11-25.html</guid>
+    <category>The Weekly PSG Digest</category>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Two ACL tears in a month have cost PSG both first-choice wingers as Luis Enrique's side take a 12-game winning run into tonight's Champions League meeting with Roma.</description>
+  </item>
+  <item>
+    <title>The Weekly Borussia Dortmund Digest: A point at the Emirates, top of the Bundesliga: Dortmund's week of statements</title>
+    <link>https://stoppagetimefc.com/editions/dortmund-digest-2026-11-25.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/dortmund-digest-2026-11-25.html</guid>
+    <category>The Weekly Borussia Dortmund Digest</category>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Dortmund drew 1-1 at Arsenal through Beier after going top of the Bundesliga at Gladbach; Leverkusen visit on Sunday with the lead on the line.</description>
+  </item>
+  <item>
+    <title>The Weekly Bayern Munich Digest: Without Kane and Olise, Bayern begin a winter of improvisation in Lille</title>
+    <link>https://stoppagetimefc.com/editions/bayern-digest-2026-11-25.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/bayern-digest-2026-11-25.html</guid>
+    <category>The Weekly Bayern Munich Digest</category>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Harry Kane's ankle surgery and Michael Olise's foot injury strip Bayern of their attack for tonight's Champions League trip to Lille and the run to Christmas.</description>
+  </item>
   <item>
     <title>The Weekly Real Madrid Digest: Nine straight wins, a late-goal habit and PSV at the Bernabéu</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-24.html</link>
@@ -302,30 +326,6 @@
     <category>The Weekly Manchester City Digest</category>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     <description>Seven straight wins have turned into three defeats as Forest beat City 3-1, exposing structural flaws and new defensive injuries before a brutal run of fixtures.</description>
-  </item>
-  <item>
-    <title>The Weekly Liverpool Digest: Liverpool find an answer at Selhurst, but the set-piece leak still stings</title>
-    <link>https://stoppagetimefc.com/editions/liverpool-digest-2026-11-09.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/liverpool-digest-2026-11-09.html</guid>
-    <category>The Weekly Liverpool Digest</category>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    <description>After losing to Arsenal and Fenerbahce, Liverpool won 3-1 at Crystal Palace to sit fourth, nine points behind Arsenal, with set-piece defending still their biggest worry.</description>
-  </item>
-  <item>
-    <title>The Weekly Chelsea Digest: No striker, no spark: Chelsea stall at the Stadium of Light</title>
-    <link>https://stoppagetimefc.com/editions/chelsea-digest-2026-11-09.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/chelsea-digest-2026-11-09.html</guid>
-    <category>The Weekly Chelsea Digest</category>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Sunderland's 1-0 win sent Chelsea into the international break fifth and 11 points behind Arsenal, with the absence of João Pedro badly felt.</description>
-  </item>
-  <item>
-    <title>The Weekly Soccer Digest: Three clubs, three points, and Atletico host Barcelona on Sunday</title>
-    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-11-06.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-11-06.html</guid>
-    <category>The Weekly Soccer Digest</category>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    <description>La Liga's top three are separated by three points, and Atletico Madrid can go top on Sunday by beating a Barcelona side travelling without the injured Rodri.</description>
   </item>
 </channel>
 </rss>
