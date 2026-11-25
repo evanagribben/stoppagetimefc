@@ -6,7 +6,7 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Nov 2026 18:49:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 02:59:28 +0000</lastBuildDate>
   <item>
     <title>The Weekly Real Madrid Digest: Nine straight wins, a late-goal habit and PSV at the Bernabéu</title>
     <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-24.html</link>
@@ -22,6 +22,22 @@
     <category>The Weekly Barcelona Digest</category>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     <description>Barça came from 0-2 down to beat Villarreal 3-2 and stay three points clear, but go to Sabah without Lamine Yamal and may lose Fermín for two games.</description>
+  </item>
+  <item>
+    <title>The Weekly Atletico Madrid Digest: Simeone reaches 345 and Atlético find their edge again</title>
+    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-24.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-24.html</guid>
+    <category>The Weekly Atletico Madrid Digest</category>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Atlético’s 3-0 win at Getafe made Diego Simeone LaLiga’s winningest coach, but a side 23rd in the Champions League must now beat Viking.</description>
+  </item>
+  <item>
+    <title>The Weekly Arsenal Digest: Four contracts in three days: Arsenal lock down the champions</title>
+    <link>https://stoppagetimefc.com/editions/arsenal-digest-2026-11-24.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/arsenal-digest-2026-11-24.html</guid>
+    <category>The Weekly Arsenal Digest</category>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Arsenal agreed four new contracts in three days as Andrea Berta locked down the spine of the title-winning squad, with Calafiori next in line.</description>
   </item>
   <item>
     <title>The Weekly Manchester United Digest: Eight minutes into the Pochettino era, United's season found a new low</title>
@@ -310,22 +326,6 @@
     <category>The Weekly Soccer Digest</category>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     <description>La Liga's top three are separated by three points, and Atletico Madrid can go top on Sunday by beating a Barcelona side travelling without the injured Rodri.</description>
-  </item>
-  <item>
-    <title>The Weekly Juventus Digest: Ten days on a knife edge: Spalletti's Juventus fight for air</title>
-    <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-05.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/juventus-digest-2026-11-05.html</guid>
-    <category>The Weekly Juventus Digest</category>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    <description>After a retreat and a rare speech from the chief executive, Juventus beat Napoli and AZ Alkmaar in five days, but a thin squad and a wary club keep Spalletti on edge.</description>
-  </item>
-  <item>
-    <title>The Weekly Inter Digest: Stung by the derby, revived in Rotterdam: Inter face Como's test</title>
-    <link>https://stoppagetimefc.com/editions/inter-digest-2026-11-05.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/inter-digest-2026-11-05.html</guid>
-    <category>The Weekly Inter Digest</category>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    <description>After a first league defeat in the derby, Inter rebuilt with a 3-0 win in Rotterdam and now host high-flying Como in a Serie A top-four clash on Sunday.</description>
   </item>
 </channel>
 </rss>
