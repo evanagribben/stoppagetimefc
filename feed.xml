@@ -6,7 +6,39 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Nov 2026 14:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 23:14:00 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Juventus Digest: Como, a striker debate and the Sunday that tells us what this Juve really is</title>
+    <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-26.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/juventus-digest-2026-11-26.html</guid>
+    <category>The Weekly Juventus Digest</category>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Juve thrashed Venezia 4-0 with a second-half surge and now face a defining Serie A trip to fifth-placed Como, five points ahead, as Spalletti fields striker questions.</description>
+  </item>
+  <item>
+    <title>The Weekly Inter Digest: Inter's week of extremes: a 4-4 at Bergamo, then a clean sheet against Stuttgart</title>
+    <link>https://stoppagetimefc.com/editions/inter-digest-2026-11-26.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/inter-digest-2026-11-26.html</guid>
+    <category>The Weekly Inter Digest</category>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Inter threw away a 4-2 lead at Atalanta despite Pio Esposito's hat-trick, then answered with a 2-0 Champions League win over Stuttgart.</description>
+  </item>
+  <item>
+    <title>The Weekly Como Digest: Eight wins in nine, and no striker needed: Como go third in Europe</title>
+    <link>https://stoppagetimefc.com/editions/como-digest-2026-11-26.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/como-digest-2026-11-26.html</guid>
+    <category>The Weekly Como Digest</category>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Headers from Ramón and Da Cunha and a Milla curler beat Cagliari and AEK Athens, lifting Como to third in Europe before Juventus visit on Sunday.</description>
+  </item>
+  <item>
+    <title>The Weekly AC Milan Digest: Final call in Piraeus: can Amorim's Serie A machine finally travel?</title>
+    <link>https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-26.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/ac-milan-digest-2026-11-26.html</guid>
+    <category>The Weekly AC Milan Digest</category>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Milan visit Olympiacos 28th in the Europa League and nine players short, needing a win to close the gap between their Serie A form and their European slump.</description>
+  </item>
   <item>
     <title>The Weekly PSG Digest: Without Doué and Kvaratskhelia, PSG test their 12-game run against Gasperini's Roma</title>
     <link>https://stoppagetimefc.com/editions/psg-digest-2026-11-25.html</link>
@@ -294,38 +326,6 @@
     <category>The Weekly Real Madrid Digest</category>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     <description>Real Madrid head into the November break on an eight-game winning run, three points behind Barcelona, with Diomande's rise and Vinicius's slump the key questions.</description>
-  </item>
-  <item>
-    <title>The Weekly Barcelona Digest: Fermín's double at the Metropolitano sends Barça into the break three points clear</title>
-    <link>https://stoppagetimefc.com/editions/barcelona-digest-2026-11-10.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/barcelona-digest-2026-11-10.html</guid>
-    <category>The Weekly Barcelona Digest</category>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Fermín scored twice in his 100th La Liga game as Barcelona came from behind to win 2-1 at Atlético and go into the break three points clear.</description>
-  </item>
-  <item>
-    <title>The Weekly Atletico Madrid Digest: Two Nights at the Metropolitano, One Hard Lesson</title>
-    <link>https://stoppagetimefc.com/editions/atletico-digest-2026-11-10.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/atletico-digest-2026-11-10.html</guid>
-    <category>The Weekly Atletico Madrid Digest</category>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Back-to-back home defeats to Bayern and Barcelona ended a seven-game league winning run and exposed the gap Simeone admits still exists.</description>
-  </item>
-  <item>
-    <title>The Weekly Manchester United Digest: Carrick's reprieve runs into the international break</title>
-    <link>https://stoppagetimefc.com/editions/man-united-digest-2026-11-09.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/man-united-digest-2026-11-09.html</guid>
-    <category>The Weekly Manchester United Digest</category>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    <description>United go into the international break 18th after a 4-4 draw with Villa, and the board will reassess Michael Carrick's position before the trip to Liverpool.</description>
-  </item>
-  <item>
-    <title>The Weekly Manchester City Digest: Seven up, three down: what has gone wrong for Maresca's City</title>
-    <link>https://stoppagetimefc.com/editions/man-city-digest-2026-11-09.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/man-city-digest-2026-11-09.html</guid>
-    <category>The Weekly Manchester City Digest</category>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Seven straight wins have turned into three defeats as Forest beat City 3-1, exposing structural flaws and new defensive injuries before a brutal run of fixtures.</description>
   </item>
 </channel>
 </rss>
