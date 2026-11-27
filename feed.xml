@@ -6,7 +6,15 @@
   <atom:link href="https://stoppagetimefc.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Independent weekly soccer newsletters.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:30:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 23:40:47 +0000</lastBuildDate>
+  <item>
+    <title>The Weekly Soccer Digest: Nineteenth, and Out of Excuses: Pochettino's Real Work Starts at Old Trafford</title>
+    <link>https://stoppagetimefc.com/editions/soccer-digest-2026-11-27.html</link>
+    <guid isPermaLink="true">https://stoppagetimefc.com/editions/soccer-digest-2026-11-27.html</guid>
+    <category>The Weekly Soccer Digest</category>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    <description>Manchester United sit 19th with eight points from eleven games, and Brentford arrive at Old Trafford on Saturday for Mauricio Pochettino's first home match in charge.</description>
+  </item>
   <item>
     <title>The Weekly Juventus Digest: Como, a striker debate and the Sunday that tells us what this Juve really is</title>
     <link>https://stoppagetimefc.com/editions/juventus-digest-2026-11-26.html</link>
@@ -318,14 +326,6 @@
     <category>The Weekly Arsenal Digest</category>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     <description>Arsenal reach the last international break of the year top of the Premier League on 27 points, five clear, with the meanest defence in the division and Bukayo Saka still weeks away.</description>
-  </item>
-  <item>
-    <title>The Weekly Real Madrid Digest: Eight in a row, and Mourinho's Madrid have found a shape</title>
-    <link>https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-10.html</link>
-    <guid isPermaLink="true">https://stoppagetimefc.com/editions/real-madrid-digest-2026-11-10.html</guid>
-    <category>The Weekly Real Madrid Digest</category>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    <description>Real Madrid head into the November break on an eight-game winning run, three points behind Barcelona, with Diomande's rise and Vinicius's slump the key questions.</description>
   </item>
 </channel>
 </rss>
